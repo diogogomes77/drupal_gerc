@@ -1,0 +1,5 @@
+.idea/
+mutagen.yml.lock
+codebase/vendor/
+codebase/web/
+db_data/
